@@ -12,7 +12,7 @@ package edu.cmu.cs.cs214.rec04;
 
 public class InheritanceSortedIntList extends SortedIntList{
     // Write your implementation below with API documentation
-    private int totalAdded = 0; // To track the total number of elements added
+      private int totalAdded = 0; // To track the total number of elements added
 
     // Constructor to call the superclass constructor
     public InheritanceSortedIntList() {
